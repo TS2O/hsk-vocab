@@ -1,0 +1,902 @@
+[
+  {
+    "character": "爱",
+    "pinyin": "ài",
+    "translation": "lieben, ich liebe, du liebst, er/sie liebt",
+    "level": 1
+  },
+  {
+    "character": "八",
+    "pinyin": "bā",
+    "translation": "acht",
+    "level": 1
+  },
+  {
+    "character": "爸爸",
+    "pinyin": "bàba",
+    "translation": "der Vater (Pl: die Väter)",
+    "level": 1
+  },
+  {
+    "character": "杯子",
+    "pinyin": "bēizi",
+    "translation": "die Tasse (Pl: die Tassen)",
+    "level": 1
+  },
+  {
+    "character": "北京",
+    "pinyin": "Běijīng",
+    "translation": "Beijing",
+    "level": 1
+  },
+  {
+    "character": "本",
+    "pinyin": "běn",
+    "translation": "ein Buch, zwei Bücher",
+    "level": 1
+  },
+  {
+    "character": "不客气",
+    "pinyin": "bú kèqi",
+    "translation": "bitte sehr",
+    "level": 1
+  },
+  {
+    "character": "不",
+    "pinyin": "bù",
+    "translation": "nicht",
+    "level": 1
+  },
+  {
+    "character": "菜",
+    "pinyin": "cài",
+    "translation": "das Essen (Pl: does not exist, same as there is none for water",
+    "level": 1
+  },
+  {
+    "character": "茶",
+    "pinyin": "chá",
+    "translation": "der Tee (Pl: die Tees)",
+    "level": 1
+  },
+  {
+    "character": "吃",
+    "pinyin": "chī",
+    "translation": "essen, ich esse, du isst, er/sie isst",
+    "level": 1
+  },
+  {
+    "character": "出租车",
+    "pinyin": "chūzūchē",
+    "translation": "das Taxi (Pl: die Taxis)",
+    "level": 1
+  },
+  {
+    "character": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "translation": "telefonieren, ich telefoniere, du telefonierst",
+    "level": 1
+  },
+  {
+    "character": "大",
+    "pinyin": "dà",
+    "translation": "groß, größer, am größten",
+    "level": 1
+  },
+  {
+    "character": "的",
+    "pinyin": "de",
+    "translation": "(grammatisches Hilfswort)",
+    "level": 1
+  },
+  {
+    "character": "点",
+    "pinyin": "diǎn",
+    "translation": "Uhr / ein bisschen",
+    "level": 1
+  },
+  {
+    "character": "电脑",
+    "pinyin": "diànnǎo",
+    "translation": "der Computer (Pl: die Computer)",
+    "level": 1
+  },
+  {
+    "character": "电视",
+    "pinyin": "diànshì",
+    "translation": "der Fernseher (Pl: die Fernseher)",
+    "level": 1
+  },
+  {
+    "character": "电影",
+    "pinyin": "diànyǐng",
+    "translation": "der Film (Pl: die Filme)",
+    "level": 1
+  },
+  {
+    "character": "东西",
+    "pinyin": "dōngxi",
+    "translation": "das Ding (Pl: die Dinge)",
+    "level": 1
+  },
+  {
+    "character": "都",
+    "pinyin": "dōu",
+    "translation": "alle",
+    "level": 1
+  },
+  {
+    "character": "读",
+    "pinyin": "dú",
+    "translation": "lesen, ich lese, du liest, er/sie liest",
+    "level": 1
+  },
+  {
+    "character": "对不起",
+    "pinyin": "duìbuqǐ",
+    "translation": "Entschuldigung",
+    "level": 1
+  },
+  {
+    "character": "多",
+    "pinyin": "duō",
+    "translation": "viel, mehr, am meisten",
+    "level": 1
+  },
+  {
+    "character": "多少",
+    "pinyin": "duōshao",
+    "translation": "wie viel",
+    "level": 1
+  },
+  {
+    "character": "儿子",
+    "pinyin": "érzi",
+    "translation": "der Sohn (Pl: die Söhne)",
+    "level": 1
+  },
+  {
+    "character": "二",
+    "pinyin": "èr",
+    "translation": "zwei",
+    "level": 1
+  },
+  {
+    "character": "饭店",
+    "pinyin": "fàndiàn",
+    "translation": "das Restaurant (Pl: die Restaurants)",
+    "level": 1
+  },
+  {
+    "character": "飞机",
+    "pinyin": "fēijī",
+    "translation": "das Flugzeug (Pl: die Flugzeuge)",
+    "level": 1
+  },
+  {
+    "character": "分钟",
+    "pinyin": "fēnzhōng",
+    "translation": "die Minute (Pl: die Minuten)",
+    "level": 1
+  },
+  {
+    "character": "高兴",
+    "pinyin": "gāoxìng",
+    "translation": "froh, froher, am frohsten",
+    "level": 1
+  },
+  {
+    "character": "个",
+    "pinyin": "gè",
+    "translation": "(Zählwort für Personen/Dinge)",
+    "level": 1
+  },
+  {
+    "character": "工作",
+    "pinyin": "gōngzuò",
+    "translation": "arbeiten, ich arbeite, du arbeitest",
+    "level": 1
+  },
+  {
+    "character": "狗",
+    "pinyin": "gǒu",
+    "translation": "der Hund (Pl: die Hunde)",
+    "level": 1
+  },
+  {
+    "character": "汉语",
+    "pinyin": "Hànyǔ",
+    "translation": "Chinesisch",
+    "level": 1
+  },
+  {
+    "character": "好",
+    "pinyin": "hǎo",
+    "translation": "gut, besser, am besten",
+    "level": 1
+  },
+  {
+    "character": "号",
+    "pinyin": "hào",
+    "translation": "die Nummer (Pl: die Nummern)",
+    "level": 1
+  },
+  {
+    "character": "喝",
+    "pinyin": "hē",
+    "translation": "trinken, ich trinke, du trinkst, er/sie trinkt",
+    "level": 1
+  },
+  {
+    "character": "和",
+    "pinyin": "hé",
+    "translation": "und",
+    "level": 1
+  },
+  {
+    "character": "很",
+    "pinyin": "hěn",
+    "translation": "sehr",
+    "level": 1
+  },
+  {
+    "character": "后面",
+    "pinyin": "hòumiàn",
+    "translation": "hinten",
+    "level": 1
+  },
+  {
+    "character": "回",
+    "pinyin": "huí",
+    "translation": "zurückgehen, ich gehe zurück, du gehst zurück",
+    "level": 1
+  },
+  {
+    "character": "会",
+    "pinyin": "huì",
+    "translation": "können, ich kann, du kannst, er/sie kann",
+    "level": 1
+  },
+  {
+    "character": "几",
+    "pinyin": "jǐ",
+    "translation": "wie viele",
+    "level": 1
+  },
+  {
+    "character": "家",
+    "pinyin": "jiā",
+    "translation": "das Zuhause (Pl: die Zuhause)",
+    "level": 1
+  },
+  {
+    "character": "叫",
+    "pinyin": "jiào",
+    "translation": "heißen, ich heiße, du heißt, er/sie heißt",
+    "level": 1
+  },
+  {
+    "character": "今天",
+    "pinyin": "jīntiān",
+    "translation": "heute",
+    "level": 1
+  },
+  {
+    "character": "九",
+    "pinyin": "jiǔ",
+    "translation": "neun",
+    "level": 1
+  },
+  {
+    "character": "开",
+    "pinyin": "kāi",
+    "translation": "öffnen, ich öffne, du öffnest",
+    "level": 1
+  },
+  {
+    "character": "看",
+    "pinyin": "kàn",
+    "translation": "schauen, ich schaue, du schaust, er/sie schaut",
+    "level": 1
+  },
+  {
+    "character": "看见",
+    "pinyin": "kànjiàn",
+    "translation": "sehen, ich sehe, du siehst, er/sie sieht",
+    "level": 1
+  },
+  {
+    "character": "块",
+    "pinyin": "kuài",
+    "translation": "der Yuan (Pl: Yuan)",
+    "level": 1
+  },
+  {
+    "character": "来",
+    "pinyin": "lái",
+    "translation": "kommen, ich komme, du kommst, er/sie kommt",
+    "level": 1
+  },
+  {
+    "character": "老师",
+    "pinyin": "lǎoshī",
+    "translation": "der Lehrer (Pl: die Lehrer)",
+    "level": 1
+  },
+  {
+    "character": "了",
+    "pinyin": "le",
+    "translation": "(grammatisches Hilfswort)",
+    "level": 1
+  },
+  {
+    "character": "冷",
+    "pinyin": "lěng",
+    "translation": "kalt, kälter, am kältesten",
+    "level": 1
+  },
+  {
+    "character": "里",
+    "pinyin": "lǐ",
+    "translation": "innen / drinnen",
+    "level": 1
+  },
+  {
+    "character": "六",
+    "pinyin": "liù",
+    "translation": "sechs",
+    "level": 1
+  },
+  {
+    "character": "吗",
+    "pinyin": "ma",
+    "translation": "(Fragepartikel)",
+    "level": 1
+  },
+  {
+    "character": "妈妈",
+    "pinyin": "māma",
+    "translation": "die Mutter (Pl: die Mütter)",
+    "level": 1
+  },
+  {
+    "character": "买",
+    "pinyin": "mǎi",
+    "translation": "kaufen, ich kaufe, du kaufst, er/sie kauft",
+    "level": 1
+  },
+  {
+    "character": "猫",
+    "pinyin": "māo",
+    "translation": "die Katze (Pl: die Katzen)",
+    "level": 1
+  },
+  {
+    "character": "没关系",
+    "pinyin": "méi guānxi",
+    "translation": "kein Problem",
+    "level": 1
+  },
+  {
+    "character": "没有",
+    "pinyin": "méiyǒu",
+    "translation": "nicht haben",
+    "level": 1
+  },
+  {
+    "character": "米饭",
+    "pinyin": "mǐfàn",
+    "translation": "der Reis",
+    "level": 1
+  },
+  {
+    "character": "名字",
+    "pinyin": "míngzi",
+    "translation": "der Name (Pl: die Namen)",
+    "level": 1
+  },
+  {
+    "character": "明天",
+    "pinyin": "míngtiān",
+    "translation": "morgen",
+    "level": 1
+  },
+  {
+    "character": "哪",
+    "pinyin": "nǎ",
+    "translation": "welcher/welche/welches",
+    "level": 1
+  },
+  {
+    "character": "哪儿",
+    "pinyin": "nǎr",
+    "translation": "wo",
+    "level": 1
+  },
+  {
+    "character": "那",
+    "pinyin": "nà",
+    "translation": "das / jenes",
+    "level": 1
+  },
+  {
+    "character": "呢",
+    "pinyin": "ne",
+    "translation": "(Fragepartikel)",
+    "level": 1
+  },
+  {
+    "character": "能",
+    "pinyin": "néng",
+    "translation": "können, ich kann, du kannst",
+    "level": 1
+  },
+  {
+    "character": "你",
+    "pinyin": "nǐ",
+    "translation": "du",
+    "level": 1
+  },
+  {
+    "character": "年",
+    "pinyin": "nián",
+    "translation": "das Jahr (Pl: die Jahre)",
+    "level": 1
+  },
+  {
+    "character": "女儿",
+    "pinyin": "nǚ'ér",
+    "translation": "die Tochter (Pl: die Töchter)",
+    "level": 1
+  },
+  {
+    "character": "朋友",
+    "pinyin": "péngyou",
+    "translation": "der Freund (Pl: die Freunde)",
+    "level": 1
+  },
+  {
+    "character": "漂亮",
+    "pinyin": "piàoliang",
+    "translation": "schön, schöner, am schönsten",
+    "level": 1
+  },
+  {
+    "character": "苹果",
+    "pinyin": "píngguǒ",
+    "translation": "der Apfel (Pl: die Äpfel)",
+    "level": 1
+  },
+  {
+    "character": "七",
+    "pinyin": "qī",
+    "translation": "sieben",
+    "level": 1
+  },
+  {
+    "character": "前面",
+    "pinyin": "qiánmiàn",
+    "translation": "vorne",
+    "level": 1
+  },
+  {
+    "character": "钱",
+    "pinyin": "qián",
+    "translation": "das Geld",
+    "level": 1
+  },
+  {
+    "character": "请",
+    "pinyin": "qǐng",
+    "translation": "einladen, ich lade ein, du lädst ein",
+    "level": 1
+  },
+  {
+    "character": "去",
+    "pinyin": "qù",
+    "translation": "gehen, ich gehe, du gehst, er/sie geht",
+    "level": 1
+  },
+  {
+    "character": "热",
+    "pinyin": "rè",
+    "translation": "heiß, heißer, am heißesten",
+    "level": 1
+  },
+  {
+    "character": "人",
+    "pinyin": "rén",
+    "translation": "die Person (Pl: die Personen)",
+    "level": 1
+  },
+  {
+    "character": "认识",
+    "pinyin": "rènshi",
+    "translation": "kennen, ich kenne, du kennst, er/sie kennt",
+    "level": 1
+  },
+  {
+    "character": "三",
+    "pinyin": "sān",
+    "translation": "drei",
+    "level": 1
+  },
+  {
+    "character": "商店",
+    "pinyin": "shāngdiàn",
+    "translation": "das Geschäft (Pl: die Geschäfte)",
+    "level": 1
+  },
+  {
+    "character": "上",
+    "pinyin": "shàng",
+    "translation": "oben / auf",
+    "level": 1
+  },
+  {
+    "character": "上午",
+    "pinyin": "shàngwǔ",
+    "translation": "der Vormittag (Pl: die Vormittage)",
+    "level": 1
+  },
+  {
+    "character": "少",
+    "pinyin": "shǎo",
+    "translation": "wenig, weniger, am wenigsten",
+    "level": 1
+  },
+  {
+    "character": "谁",
+    "pinyin": "shéi",
+    "translation": "wer",
+    "level": 1
+  },
+  {
+    "character": "什么",
+    "pinyin": "shénme",
+    "translation": "was",
+    "level": 1
+  },
+  {
+    "character": "十",
+    "pinyin": "shí",
+    "translation": "zehn",
+    "level": 1
+  },
+  {
+    "character": "时候",
+    "pinyin": "shíhou",
+    "translation": "die Zeit (Pl: die Zeiten)",
+    "level": 1
+  },
+  {
+    "character": "是",
+    "pinyin": "shì",
+    "translation": "sein, ich bin, du bist, er/sie ist",
+    "level": 1
+  },
+  {
+    "character": "书",
+    "pinyin": "shū",
+    "translation": "das Buch (Pl: die Bücher)",
+    "level": 1
+  },
+  {
+    "character": "水",
+    "pinyin": "shuǐ",
+    "translation": "das Wasser",
+    "level": 1
+  },
+  {
+    "character": "水果",
+    "pinyin": "shuǐguǒ",
+    "translation": "das Obst / die Frucht (Pl: die Früchte)",
+    "level": 1
+  },
+  {
+    "character": "睡觉",
+    "pinyin": "shuìjiào",
+    "translation": "schlafen, ich schlafe, du schläfst, er/sie schläft",
+    "level": 1
+  },
+  {
+    "character": "说",
+    "pinyin": "shuō",
+    "translation": "sprechen, ich spreche, du sprichst, er/sie spricht",
+    "level": 1
+  },
+  {
+    "character": "四",
+    "pinyin": "sì",
+    "translation": "vier",
+    "level": 1
+  },
+  {
+    "character": "岁",
+    "pinyin": "suì",
+    "translation": "Jahre alt",
+    "level": 1
+  },
+  {
+    "character": "他",
+    "pinyin": "tā",
+    "translation": "er",
+    "level": 1
+  },
+  {
+    "character": "她",
+    "pinyin": "tā",
+    "translation": "sie",
+    "level": 1
+  },
+  {
+    "character": "太",
+    "pinyin": "tài",
+    "translation": "zu",
+    "level": 1
+  },
+  {
+    "character": "天气",
+    "pinyin": "tiānqì",
+    "translation": "das Wetter",
+    "level": 1
+  },
+  {
+    "character": "听",
+    "pinyin": "tīng",
+    "translation": "hören, ich höre, du hörst, er/sie hört",
+    "level": 1
+  },
+  {
+    "character": "同学",
+    "pinyin": "tóngxué",
+    "translation": "der Mitschüler (Pl: die Mitschüler)",
+    "level": 1
+  },
+  {
+    "character": "喂",
+    "pinyin": "wèi",
+    "translation": "hallo",
+    "level": 1
+  },
+  {
+    "character": "我",
+    "pinyin": "wǒ",
+    "translation": "ich",
+    "level": 1
+  },
+  {
+    "character": "我们",
+    "pinyin": "wǒmen",
+    "translation": "wir",
+    "level": 1
+  },
+  {
+    "character": "五",
+    "pinyin": "wǔ",
+    "translation": "fünf",
+    "level": 1
+  },
+  {
+    "character": "喜欢",
+    "pinyin": "xǐhuan",
+    "translation": "mögen, ich mag, du magst, er/sie mag",
+    "level": 1
+  },
+  {
+    "character": "下",
+    "pinyin": "xià",
+    "translation": "unten",
+    "level": 1
+  },
+  {
+    "character": "下午",
+    "pinyin": "xiàwǔ",
+    "translation": "der Nachmittag (Pl: die Nachmittage)",
+    "level": 1
+  },
+  {
+    "character": "下雨",
+    "pinyin": "xià yǔ",
+    "translation": "regnen, es regnet",
+    "level": 1
+  },
+  {
+    "character": "先生",
+    "pinyin": "xiānsheng",
+    "translation": "Herr (Pl: Herren)",
+    "level": 1
+  },
+  {
+    "character": "现在",
+    "pinyin": "xiànzài",
+    "translation": "jetzt",
+    "level": 1
+  },
+  {
+    "character": "想",
+    "pinyin": "xiǎng",
+    "translation": "wollen, ich will, du willst, er/sie will",
+    "level": 1
+  },
+  {
+    "character": "小",
+    "pinyin": "xiǎo",
+    "translation": "klein, kleiner, am kleinsten",
+    "level": 1
+  },
+  {
+    "character": "小姐",
+    "pinyin": "xiǎojiě",
+    "translation": "Fräulein",
+    "level": 1
+  },
+  {
+    "character": "些",
+    "pinyin": "xiē",
+    "translation": "einige / ein paar",
+    "level": 1
+  },
+  {
+    "character": "写",
+    "pinyin": "xiě",
+    "translation": "schreiben, ich schreibe, du schreibst, er/sie schreibt",
+    "level": 1
+  },
+  {
+    "character": "谢谢",
+    "pinyin": "xièxie",
+    "translation": "danke schön",
+    "level": 1
+  },
+  {
+    "character": "星期",
+    "pinyin": "xīngqī",
+    "translation": "die Woche (Pl: die Wochen)",
+    "level": 1
+  },
+  {
+    "character": "学生",
+    "pinyin": "xuésheng",
+    "translation": "der Schüler (Pl: die Schüler)",
+    "level": 1
+  },
+  {
+    "character": "学习",
+    "pinyin": "xuéxí",
+    "translation": "lernen, ich lerne, du lernst, er/sie lernt",
+    "level": 1
+  },
+  {
+    "character": "学校",
+    "pinyin": "xuéxiào",
+    "translation": "die Schule (Pl: die Schulen)",
+    "level": 1
+  },
+  {
+    "character": "一",
+    "pinyin": "yī",
+    "translation": "eins",
+    "level": 1
+  },
+  {
+    "character": "一点儿",
+    "pinyin": "yīdiǎnr",
+    "translation": "ein bisschen",
+    "level": 1
+  },
+  {
+    "character": "医生",
+    "pinyin": "yīshēng",
+    "translation": "der Arzt (Pl: die Ärzte)",
+    "level": 1
+  },
+  {
+    "character": "医院",
+    "pinyin": "yīyuàn",
+    "translation": "das Krankenhaus (Pl: die Krankenhäuser)",
+    "level": 1
+  },
+  {
+    "character": "衣服",
+    "pinyin": "yīfu",
+    "translation": "die Kleidung",
+    "level": 1
+  },
+  {
+    "character": "椅子",
+    "pinyin": "yǐzi",
+    "translation": "der Stuhl (Pl: die Stühle)",
+    "level": 1
+  },
+  {
+    "character": "有",
+    "pinyin": "yǒu",
+    "translation": "haben, ich habe, du hast, er/sie hat",
+    "level": 1
+  },
+  {
+    "character": "月",
+    "pinyin": "yuè",
+    "translation": "der Monat (Pl: die Monate)",
+    "level": 1
+  },
+  {
+    "character": "再见",
+    "pinyin": "zàijiàn",
+    "translation": "auf Wiedersehen",
+    "level": 1
+  },
+  {
+    "character": "在",
+    "pinyin": "zài",
+    "translation": "in / bei",
+    "level": 1
+  },
+  {
+    "character": "怎么",
+    "pinyin": "zěnme",
+    "translation": "wie",
+    "level": 1
+  },
+  {
+    "character": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "translation": "wie ist es",
+    "level": 1
+  },
+  {
+    "character": "这",
+    "pinyin": "zhè",
+    "translation": "dies / dieses",
+    "level": 1
+  },
+  {
+    "character": "中国",
+    "pinyin": "Zhōngguó",
+    "translation": "China",
+    "level": 1
+  },
+  {
+    "character": "中午",
+    "pinyin": "zhōngwǔ",
+    "translation": "der Mittag (Pl: die Mittage)",
+    "level": 1
+  },
+  {
+    "character": "住",
+    "pinyin": "zhù",
+    "translation": "wohnen, ich wohne, du wohnst, er/sie wohnt",
+    "level": 1
+  },
+  {
+    "character": "桌子",
+    "pinyin": "zhuōzi",
+    "translation": "der Tisch (Pl: die Tische)",
+    "level": 1
+  },
+  {
+    "character": "字",
+    "pinyin": "zì",
+    "translation": "das Schriftzeichen (Pl: die Schriftzeichen)",
+    "level": 1
+  },
+  {
+    "character": "昨天",
+    "pinyin": "zuótiān",
+    "translation": "gestern",
+    "level": 1
+  },
+  {
+    "character": "做",
+    "pinyin": "zuò",
+    "translation": "machen, ich mache, du machst, er/sie macht",
+    "level": 1
+  },
+  {
+    "character": "坐",
+    "pinyin": "zuò",
+    "translation": "sitzen, ich sitze, du sitzt, er/sie sitzt",
+    "level": 1
+  }
+]
