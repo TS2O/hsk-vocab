@@ -1,902 +1,1734 @@
 [
   {
-    "character": "爱",
+    "germanWord": "lieben",
+    "chineseTranslation": "爱",
     "pinyin": "ài",
-    "translation": "lieben, ich liebe, du liebst, er/sie liebt",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "lieben",
+    "conjugations": {
+      "ich": "liebe",
+      "du": "liebst",
+      "er": "liebt",
+      "wir": "lieben"
+    }
   },
   {
-    "character": "八",
+    "germanWord": "acht",
+    "chineseTranslation": "八",
     "pinyin": "bā",
-    "translation": "acht",
-    "level": 1
+    "level": 1,
+    "wordType": "number",
+    "translation": "acht"
   },
   {
-    "character": "爸爸",
+    "germanWord": "der Vater",
+    "chineseTranslation": "爸爸",
     "pinyin": "bàba",
-    "translation": "der Vater (Pl: die Väter)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Vater",
+      "akkusativ": "den Vater",
+      "dativ": "dem Vater",
+      "genitiv": "des Vaters"
+    },
+    "plural": "die Väter"
   },
   {
-    "character": "杯子",
+    "germanWord": "die Tasse",
+    "chineseTranslation": "杯子",
     "pinyin": "bēizi",
-    "translation": "die Tasse (Pl: die Tassen)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "die",
+    "cases": {
+      "nominativ": "die Tasse",
+      "akkusativ": "die Tasse",
+      "dativ": "der Tasse",
+      "genitiv": "der Tasse"
+    },
+    "plural": "die Tassen"
   },
   {
-    "character": "北京",
+    "germanWord": "Beijing",
+    "chineseTranslation": "北京",
     "pinyin": "Běijīng",
-    "translation": "Beijing",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "Beijing"
   },
   {
-    "character": "本",
+    "germanWord": "ein Buch, zwei Bücher",
+    "chineseTranslation": "本",
     "pinyin": "běn",
-    "translation": "ein Buch, zwei Bücher",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "ein Buch, zwei Bücher"
   },
   {
-    "character": "不客气",
+    "germanWord": "bitte sehr",
+    "chineseTranslation": "不客气",
     "pinyin": "bú kèqi",
-    "translation": "bitte sehr",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "bitte sehr"
   },
   {
-    "character": "不",
+    "germanWord": "nicht",
+    "chineseTranslation": "不",
     "pinyin": "bù",
-    "translation": "nicht",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "nicht"
   },
   {
-    "character": "菜",
+    "germanWord": "das Essen",
+    "chineseTranslation": "菜",
     "pinyin": "cài",
-    "translation": "das Essen (Pl: does not exist, same as there is none for water",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "das",
+    "cases": {
+      "nominativ": "das Essen",
+      "akkusativ": "das Essen",
+      "dativ": "dem Essen",
+      "genitiv": "des Essens"
+    },
+    "plural": "does not exist, same as there is none for water"
   },
   {
-    "character": "茶",
+    "germanWord": "der Tee",
+    "chineseTranslation": "茶",
     "pinyin": "chá",
-    "translation": "der Tee (Pl: die Tees)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Tee",
+      "akkusativ": "den Tee",
+      "dativ": "dem Tee",
+      "genitiv": "des Tees"
+    },
+    "plural": "die Tees"
   },
   {
-    "character": "吃",
+    "germanWord": "essen",
+    "chineseTranslation": "吃",
     "pinyin": "chī",
-    "translation": "essen, ich esse, du isst, er/sie isst",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "essen",
+    "conjugations": {
+      "ich": "esse",
+      "du": "isst",
+      "er": "isst",
+      "wir": "essen"
+    }
   },
   {
-    "character": "出租车",
+    "germanWord": "das Taxi",
+    "chineseTranslation": "出租车",
     "pinyin": "chūzūchē",
-    "translation": "das Taxi (Pl: die Taxis)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "das",
+    "cases": {
+      "nominativ": "das Taxi",
+      "akkusativ": "das Taxi",
+      "dativ": "dem Taxi",
+      "genitiv": "des Taxis"
+    },
+    "plural": "die Taxis"
   },
   {
-    "character": "打电话",
+    "germanWord": "telefonieren",
+    "chineseTranslation": "打电话",
     "pinyin": "dǎ diànhuà",
-    "translation": "telefonieren, ich telefoniere, du telefonierst",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "telefonieren",
+    "pastParticiple": "telefoniert",
+    "conjugations": {
+      "ich": "telefoniere",
+      "du": "telefonierst",
+      "wir": "telefonieren"
+    }
   },
   {
-    "character": "大",
+    "germanWord": "groß",
+    "chineseTranslation": "大",
     "pinyin": "dà",
-    "translation": "groß, größer, am größten",
-    "level": 1
+    "level": 1,
+    "wordType": "adjective",
+    "base": "groß",
+    "comparative": "größer",
+    "superlative": "größten"
   },
   {
-    "character": "的",
+    "germanWord": "(grammatisches Hilfswort)",
+    "chineseTranslation": "的",
     "pinyin": "de",
-    "translation": "(grammatisches Hilfswort)",
-    "level": 1
+    "level": 1,
+    "wordType": "particle",
+    "translation": "(grammatisches Hilfswort)"
   },
   {
-    "character": "点",
+    "germanWord": "Uhr / ein bisschen",
+    "chineseTranslation": "点",
     "pinyin": "diǎn",
-    "translation": "Uhr / ein bisschen",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "Uhr / ein bisschen"
   },
   {
-    "character": "电脑",
+    "germanWord": "der Computer",
+    "chineseTranslation": "电脑",
     "pinyin": "diànnǎo",
-    "translation": "der Computer (Pl: die Computer)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Computer",
+      "akkusativ": "den Computer",
+      "dativ": "dem Computer",
+      "genitiv": "des Computers"
+    },
+    "plural": "die Computer"
   },
   {
-    "character": "电视",
+    "germanWord": "der Fernseher",
+    "chineseTranslation": "电视",
     "pinyin": "diànshì",
-    "translation": "der Fernseher (Pl: die Fernseher)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Fernseher",
+      "akkusativ": "den Fernseher",
+      "dativ": "dem Fernseher",
+      "genitiv": "des Fernsehers"
+    },
+    "plural": "die Fernseher"
   },
   {
-    "character": "电影",
+    "germanWord": "der Film",
+    "chineseTranslation": "电影",
     "pinyin": "diànyǐng",
-    "translation": "der Film (Pl: die Filme)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Film",
+      "akkusativ": "den Film",
+      "dativ": "dem Film",
+      "genitiv": "des Films"
+    },
+    "plural": "die Filme"
   },
   {
-    "character": "东西",
+    "germanWord": "das Ding",
+    "chineseTranslation": "东西",
     "pinyin": "dōngxi",
-    "translation": "das Ding (Pl: die Dinge)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "das",
+    "cases": {
+      "nominativ": "das Ding",
+      "akkusativ": "das Ding",
+      "dativ": "dem Ding",
+      "genitiv": "des Dings"
+    },
+    "plural": "die Dinge"
   },
   {
-    "character": "都",
+    "germanWord": "alle",
+    "chineseTranslation": "都",
     "pinyin": "dōu",
-    "translation": "alle",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "alle"
   },
   {
-    "character": "读",
+    "germanWord": "lesen",
+    "chineseTranslation": "读",
     "pinyin": "dú",
-    "translation": "lesen, ich lese, du liest, er/sie liest",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "lesen",
+    "conjugations": {
+      "ich": "lese",
+      "du": "liest",
+      "er": "liest",
+      "wir": "lesen"
+    }
   },
   {
-    "character": "对不起",
+    "germanWord": "Entschuldigung",
+    "chineseTranslation": "对不起",
     "pinyin": "duìbuqǐ",
-    "translation": "Entschuldigung",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "Entschuldigung"
   },
   {
-    "character": "多",
+    "germanWord": "viel, mehr, am meisten",
+    "chineseTranslation": "多",
     "pinyin": "duō",
-    "translation": "viel, mehr, am meisten",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "viel, mehr, am meisten"
   },
   {
-    "character": "多少",
+    "germanWord": "wie viel",
+    "chineseTranslation": "多少",
     "pinyin": "duōshao",
-    "translation": "wie viel",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "wie viel"
   },
   {
-    "character": "儿子",
+    "germanWord": "der Sohn",
+    "chineseTranslation": "儿子",
     "pinyin": "érzi",
-    "translation": "der Sohn (Pl: die Söhne)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Sohn",
+      "akkusativ": "den Sohn",
+      "dativ": "dem Sohn",
+      "genitiv": "des Sohns"
+    },
+    "plural": "die Söhne"
   },
   {
-    "character": "二",
+    "germanWord": "zwei",
+    "chineseTranslation": "二",
     "pinyin": "èr",
-    "translation": "zwei",
-    "level": 1
+    "level": 1,
+    "wordType": "number",
+    "translation": "zwei"
   },
   {
-    "character": "饭店",
+    "germanWord": "das Restaurant",
+    "chineseTranslation": "饭店",
     "pinyin": "fàndiàn",
-    "translation": "das Restaurant (Pl: die Restaurants)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "das",
+    "cases": {
+      "nominativ": "das Restaurant",
+      "akkusativ": "das Restaurant",
+      "dativ": "dem Restaurant",
+      "genitiv": "des Restaurants"
+    },
+    "plural": "die Restaurants"
   },
   {
-    "character": "飞机",
+    "germanWord": "das Flugzeug",
+    "chineseTranslation": "飞机",
     "pinyin": "fēijī",
-    "translation": "das Flugzeug (Pl: die Flugzeuge)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "das",
+    "cases": {
+      "nominativ": "das Flugzeug",
+      "akkusativ": "das Flugzeug",
+      "dativ": "dem Flugzeug",
+      "genitiv": "des Flugzeugs"
+    },
+    "plural": "die Flugzeuge"
   },
   {
-    "character": "分钟",
+    "germanWord": "die Minute",
+    "chineseTranslation": "分钟",
     "pinyin": "fēnzhōng",
-    "translation": "die Minute (Pl: die Minuten)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "die",
+    "cases": {
+      "nominativ": "die Minute",
+      "akkusativ": "die Minute",
+      "dativ": "der Minute",
+      "genitiv": "der Minute"
+    },
+    "plural": "die Minuten"
   },
   {
-    "character": "高兴",
+    "germanWord": "froh",
+    "chineseTranslation": "高兴",
     "pinyin": "gāoxìng",
-    "translation": "froh, froher, am frohsten",
-    "level": 1
+    "level": 1,
+    "wordType": "adjective",
+    "base": "froh",
+    "comparative": "froher",
+    "superlative": "frohsten"
   },
   {
-    "character": "个",
+    "germanWord": "(Zählwort für Personen/Dinge)",
+    "chineseTranslation": "个",
     "pinyin": "gè",
-    "translation": "(Zählwort für Personen/Dinge)",
-    "level": 1
+    "level": 1,
+    "wordType": "particle",
+    "translation": "(Zählwort für Personen/Dinge)"
   },
   {
-    "character": "工作",
+    "germanWord": "arbeiten",
+    "chineseTranslation": "工作",
     "pinyin": "gōngzuò",
-    "translation": "arbeiten, ich arbeite, du arbeitest",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "arbeiten",
+    "conjugations": {
+      "ich": "arbeite",
+      "du": "arbeitest",
+      "wir": "arbeiten"
+    }
   },
   {
-    "character": "狗",
+    "germanWord": "der Hund",
+    "chineseTranslation": "狗",
     "pinyin": "gǒu",
-    "translation": "der Hund (Pl: die Hunde)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Hund",
+      "akkusativ": "den Hund",
+      "dativ": "dem Hund",
+      "genitiv": "des Hunds"
+    },
+    "plural": "die Hunde"
   },
   {
-    "character": "汉语",
+    "germanWord": "Chinesisch",
+    "chineseTranslation": "汉语",
     "pinyin": "Hànyǔ",
-    "translation": "Chinesisch",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "Chinesisch"
   },
   {
-    "character": "好",
+    "germanWord": "gut",
+    "chineseTranslation": "好",
     "pinyin": "hǎo",
-    "translation": "gut, besser, am besten",
-    "level": 1
+    "level": 1,
+    "wordType": "adjective",
+    "base": "gut",
+    "comparative": "besser",
+    "superlative": "besten"
   },
   {
-    "character": "号",
+    "germanWord": "die Nummer",
+    "chineseTranslation": "号",
     "pinyin": "hào",
-    "translation": "die Nummer (Pl: die Nummern)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "die",
+    "cases": {
+      "nominativ": "die Nummer",
+      "akkusativ": "die Nummer",
+      "dativ": "der Nummer",
+      "genitiv": "der Nummer"
+    },
+    "plural": "die Nummern"
   },
   {
-    "character": "喝",
+    "germanWord": "trinken",
+    "chineseTranslation": "喝",
     "pinyin": "hē",
-    "translation": "trinken, ich trinke, du trinkst, er/sie trinkt",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "trinken",
+    "conjugations": {
+      "ich": "trinke",
+      "du": "trinkst",
+      "er": "trinkt",
+      "wir": "trinken"
+    }
   },
   {
-    "character": "和",
+    "germanWord": "und",
+    "chineseTranslation": "和",
     "pinyin": "hé",
-    "translation": "und",
-    "level": 1
+    "level": 1,
+    "wordType": "conjunction",
+    "translation": "und"
   },
   {
-    "character": "很",
+    "germanWord": "sehr",
+    "chineseTranslation": "很",
     "pinyin": "hěn",
-    "translation": "sehr",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "sehr"
   },
   {
-    "character": "后面",
+    "germanWord": "hinten",
+    "chineseTranslation": "后面",
     "pinyin": "hòumiàn",
-    "translation": "hinten",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "hinten"
   },
   {
-    "character": "回",
+    "germanWord": "zurückgehen",
+    "chineseTranslation": "回",
     "pinyin": "huí",
-    "translation": "zurückgehen, ich gehe zurück, du gehst zurück",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "zurückgehen",
+    "conjugations": {
+      "ich": "gehe zurück",
+      "du": "gehst zurück",
+      "wir": "zurückgehen"
+    }
   },
   {
-    "character": "会",
+    "germanWord": "können",
+    "chineseTranslation": "会",
     "pinyin": "huì",
-    "translation": "können, ich kann, du kannst, er/sie kann",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "können",
+    "conjugations": {
+      "ich": "kann",
+      "du": "kannst",
+      "er": "kann",
+      "wir": "können"
+    }
   },
   {
-    "character": "几",
+    "germanWord": "wie viele",
+    "chineseTranslation": "几",
     "pinyin": "jǐ",
-    "translation": "wie viele",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "wie viele"
   },
   {
-    "character": "家",
+    "germanWord": "das Zuhause",
+    "chineseTranslation": "家",
     "pinyin": "jiā",
-    "translation": "das Zuhause (Pl: die Zuhause)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "das",
+    "cases": {
+      "nominativ": "das Zuhause",
+      "akkusativ": "das Zuhause",
+      "dativ": "dem Zuhause",
+      "genitiv": "des Zuhauses"
+    },
+    "plural": "die Zuhause"
   },
   {
-    "character": "叫",
+    "germanWord": "heißen",
+    "chineseTranslation": "叫",
     "pinyin": "jiào",
-    "translation": "heißen, ich heiße, du heißt, er/sie heißt",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "heißen",
+    "conjugations": {
+      "ich": "heiße",
+      "du": "heißt",
+      "er": "heißt",
+      "wir": "heißen"
+    }
   },
   {
-    "character": "今天",
+    "germanWord": "heute",
+    "chineseTranslation": "今天",
     "pinyin": "jīntiān",
-    "translation": "heute",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "heute"
   },
   {
-    "character": "九",
+    "germanWord": "neun",
+    "chineseTranslation": "九",
     "pinyin": "jiǔ",
-    "translation": "neun",
-    "level": 1
+    "level": 1,
+    "wordType": "number",
+    "translation": "neun"
   },
   {
-    "character": "开",
+    "germanWord": "öffnen",
+    "chineseTranslation": "开",
     "pinyin": "kāi",
-    "translation": "öffnen, ich öffne, du öffnest",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "öffnen",
+    "conjugations": {
+      "ich": "öffne",
+      "du": "öffnest",
+      "wir": "öffnen"
+    }
   },
   {
-    "character": "看",
+    "germanWord": "schauen",
+    "chineseTranslation": "看",
     "pinyin": "kàn",
-    "translation": "schauen, ich schaue, du schaust, er/sie schaut",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "schauen",
+    "conjugations": {
+      "ich": "schaue",
+      "du": "schaust",
+      "er": "schaut",
+      "wir": "schauen"
+    }
   },
   {
-    "character": "看见",
+    "germanWord": "sehen",
+    "chineseTranslation": "看见",
     "pinyin": "kànjiàn",
-    "translation": "sehen, ich sehe, du siehst, er/sie sieht",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "sehen",
+    "conjugations": {
+      "ich": "sehe",
+      "du": "siehst",
+      "er": "sieht",
+      "wir": "sehen"
+    }
   },
   {
-    "character": "块",
+    "germanWord": "der Yuan",
+    "chineseTranslation": "块",
     "pinyin": "kuài",
-    "translation": "der Yuan (Pl: Yuan)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Yuan",
+      "akkusativ": "den Yuan",
+      "dativ": "dem Yuan",
+      "genitiv": "des Yuans"
+    },
+    "plural": "Yuan"
   },
   {
-    "character": "来",
+    "germanWord": "kommen",
+    "chineseTranslation": "来",
     "pinyin": "lái",
-    "translation": "kommen, ich komme, du kommst, er/sie kommt",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "kommen",
+    "pastParticiple": "gekommen",
+    "conjugations": {
+      "ich": "komme",
+      "du": "kommst",
+      "er": "kommt",
+      "wir": "kommen"
+    }
   },
   {
-    "character": "老师",
+    "germanWord": "der Lehrer",
+    "chineseTranslation": "老师",
     "pinyin": "lǎoshī",
-    "translation": "der Lehrer (Pl: die Lehrer)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Lehrer",
+      "akkusativ": "den Lehrer",
+      "dativ": "dem Lehrer",
+      "genitiv": "des Lehrers"
+    },
+    "plural": "die Lehrer"
   },
   {
-    "character": "了",
+    "germanWord": "(grammatisches Hilfswort)",
+    "chineseTranslation": "了",
     "pinyin": "le",
-    "translation": "(grammatisches Hilfswort)",
-    "level": 1
+    "level": 1,
+    "wordType": "particle",
+    "translation": "(grammatisches Hilfswort)"
   },
   {
-    "character": "冷",
+    "germanWord": "kalt",
+    "chineseTranslation": "冷",
     "pinyin": "lěng",
-    "translation": "kalt, kälter, am kältesten",
-    "level": 1
+    "level": 1,
+    "wordType": "adjective",
+    "base": "kalt",
+    "comparative": "kälter",
+    "superlative": "kältesten"
   },
   {
-    "character": "里",
+    "germanWord": "innen / drinnen",
+    "chineseTranslation": "里",
     "pinyin": "lǐ",
-    "translation": "innen / drinnen",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "innen / drinnen"
   },
   {
-    "character": "六",
+    "germanWord": "sechs",
+    "chineseTranslation": "六",
     "pinyin": "liù",
-    "translation": "sechs",
-    "level": 1
+    "level": 1,
+    "wordType": "number",
+    "translation": "sechs"
   },
   {
-    "character": "吗",
+    "germanWord": "(Fragepartikel)",
+    "chineseTranslation": "吗",
     "pinyin": "ma",
-    "translation": "(Fragepartikel)",
-    "level": 1
+    "level": 1,
+    "wordType": "particle",
+    "translation": "(Fragepartikel)"
   },
   {
-    "character": "妈妈",
+    "germanWord": "die Mutter",
+    "chineseTranslation": "妈妈",
     "pinyin": "māma",
-    "translation": "die Mutter (Pl: die Mütter)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "die",
+    "cases": {
+      "nominativ": "die Mutter",
+      "akkusativ": "die Mutter",
+      "dativ": "der Mutter",
+      "genitiv": "der Mutter"
+    },
+    "plural": "die Mütter"
   },
   {
-    "character": "买",
+    "germanWord": "kaufen",
+    "chineseTranslation": "买",
     "pinyin": "mǎi",
-    "translation": "kaufen, ich kaufe, du kaufst, er/sie kauft",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "kaufen",
+    "conjugations": {
+      "ich": "kaufe",
+      "du": "kaufst",
+      "er": "kauft",
+      "wir": "kaufen"
+    }
   },
   {
-    "character": "猫",
+    "germanWord": "die Katze",
+    "chineseTranslation": "猫",
     "pinyin": "māo",
-    "translation": "die Katze (Pl: die Katzen)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "die",
+    "cases": {
+      "nominativ": "die Katze",
+      "akkusativ": "die Katze",
+      "dativ": "der Katze",
+      "genitiv": "der Katze"
+    },
+    "plural": "die Katzen"
   },
   {
-    "character": "没关系",
+    "germanWord": "kein Problem",
+    "chineseTranslation": "没关系",
     "pinyin": "méi guānxi",
-    "translation": "kein Problem",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "kein Problem"
   },
   {
-    "character": "没有",
+    "germanWord": "nicht haben",
+    "chineseTranslation": "没有",
     "pinyin": "méiyǒu",
-    "translation": "nicht haben",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "nicht haben"
   },
   {
-    "character": "米饭",
+    "germanWord": "der Reis",
+    "chineseTranslation": "米饭",
     "pinyin": "mǐfàn",
-    "translation": "der Reis",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Reis",
+      "akkusativ": "den Reis",
+      "dativ": "dem Reis",
+      "genitiv": "des Reiss"
+    }
   },
   {
-    "character": "名字",
+    "germanWord": "der Name",
+    "chineseTranslation": "名字",
     "pinyin": "míngzi",
-    "translation": "der Name (Pl: die Namen)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Name",
+      "akkusativ": "den Name",
+      "dativ": "dem Name",
+      "genitiv": "des Names"
+    },
+    "plural": "die Namen"
   },
   {
-    "character": "明天",
+    "germanWord": "morgen",
+    "chineseTranslation": "明天",
     "pinyin": "míngtiān",
-    "translation": "morgen",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "morgen"
   },
   {
-    "character": "哪",
+    "germanWord": "welcher/welche/welches",
+    "chineseTranslation": "哪",
     "pinyin": "nǎ",
-    "translation": "welcher/welche/welches",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "welcher/welche/welches"
   },
   {
-    "character": "哪儿",
+    "germanWord": "wo",
+    "chineseTranslation": "哪儿",
     "pinyin": "nǎr",
-    "translation": "wo",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "wo"
   },
   {
-    "character": "那",
+    "germanWord": "das /",
+    "chineseTranslation": "那",
     "pinyin": "nà",
-    "translation": "das / jenes",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "das",
+    "cases": {
+      "nominativ": "das /",
+      "akkusativ": "das /",
+      "dativ": "dem /",
+      "genitiv": "des /s"
+    }
   },
   {
-    "character": "呢",
+    "germanWord": "(Fragepartikel)",
+    "chineseTranslation": "呢",
     "pinyin": "ne",
-    "translation": "(Fragepartikel)",
-    "level": 1
+    "level": 1,
+    "wordType": "particle",
+    "translation": "(Fragepartikel)"
   },
   {
-    "character": "能",
+    "germanWord": "können",
+    "chineseTranslation": "能",
     "pinyin": "néng",
-    "translation": "können, ich kann, du kannst",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "können",
+    "conjugations": {
+      "ich": "kann",
+      "du": "kannst",
+      "wir": "können"
+    }
   },
   {
-    "character": "你",
+    "germanWord": "du",
+    "chineseTranslation": "你",
     "pinyin": "nǐ",
-    "translation": "du",
-    "level": 1
+    "level": 1,
+    "wordType": "pronoun",
+    "translation": "du"
   },
   {
-    "character": "年",
+    "germanWord": "das Jahr",
+    "chineseTranslation": "年",
     "pinyin": "nián",
-    "translation": "das Jahr (Pl: die Jahre)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "das",
+    "cases": {
+      "nominativ": "das Jahr",
+      "akkusativ": "das Jahr",
+      "dativ": "dem Jahr",
+      "genitiv": "des Jahrs"
+    },
+    "plural": "die Jahre"
   },
   {
-    "character": "女儿",
+    "germanWord": "die Tochter",
+    "chineseTranslation": "女儿",
     "pinyin": "nǚ'ér",
-    "translation": "die Tochter (Pl: die Töchter)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "die",
+    "cases": {
+      "nominativ": "die Tochter",
+      "akkusativ": "die Tochter",
+      "dativ": "der Tochter",
+      "genitiv": "der Tochter"
+    },
+    "plural": "die Töchter"
   },
   {
-    "character": "朋友",
+    "germanWord": "der Freund",
+    "chineseTranslation": "朋友",
     "pinyin": "péngyou",
-    "translation": "der Freund (Pl: die Freunde)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Freund",
+      "akkusativ": "den Freund",
+      "dativ": "dem Freund",
+      "genitiv": "des Freunds"
+    },
+    "plural": "die Freunde"
   },
   {
-    "character": "漂亮",
+    "germanWord": "schön",
+    "chineseTranslation": "漂亮",
     "pinyin": "piàoliang",
-    "translation": "schön, schöner, am schönsten",
-    "level": 1
+    "level": 1,
+    "wordType": "adjective",
+    "base": "schön",
+    "comparative": "schöner",
+    "superlative": "schönsten"
   },
   {
-    "character": "苹果",
+    "germanWord": "der Apfel",
+    "chineseTranslation": "苹果",
     "pinyin": "píngguǒ",
-    "translation": "der Apfel (Pl: die Äpfel)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Apfel",
+      "akkusativ": "den Apfel",
+      "dativ": "dem Apfel",
+      "genitiv": "des Apfels"
+    },
+    "plural": "die Äpfel"
   },
   {
-    "character": "七",
+    "germanWord": "sieben",
+    "chineseTranslation": "七",
     "pinyin": "qī",
-    "translation": "sieben",
-    "level": 1
+    "level": 1,
+    "wordType": "number",
+    "translation": "sieben"
   },
   {
-    "character": "前面",
+    "germanWord": "vorne",
+    "chineseTranslation": "前面",
     "pinyin": "qiánmiàn",
-    "translation": "vorne",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "vorne"
   },
   {
-    "character": "钱",
+    "germanWord": "das Geld",
+    "chineseTranslation": "钱",
     "pinyin": "qián",
-    "translation": "das Geld",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "das",
+    "cases": {
+      "nominativ": "das Geld",
+      "akkusativ": "das Geld",
+      "dativ": "dem Geld",
+      "genitiv": "des Gelds"
+    }
   },
   {
-    "character": "请",
+    "germanWord": "einladen",
+    "chineseTranslation": "请",
     "pinyin": "qǐng",
-    "translation": "einladen, ich lade ein, du lädst ein",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "einladen",
+    "conjugations": {
+      "ich": "lade ein",
+      "du": "lädst ein",
+      "wir": "einladen"
+    }
   },
   {
-    "character": "去",
+    "germanWord": "gehen",
+    "chineseTranslation": "去",
     "pinyin": "qù",
-    "translation": "gehen, ich gehe, du gehst, er/sie geht",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "gehen",
+    "pastParticiple": "gegangen",
+    "conjugations": {
+      "ich": "gehe",
+      "du": "gehst",
+      "er": "geht",
+      "wir": "gehen"
+    }
   },
   {
-    "character": "热",
+    "germanWord": "heiß",
+    "chineseTranslation": "热",
     "pinyin": "rè",
-    "translation": "heiß, heißer, am heißesten",
-    "level": 1
+    "level": 1,
+    "wordType": "adjective",
+    "base": "heiß",
+    "comparative": "heißer",
+    "superlative": "heißesten"
   },
   {
-    "character": "人",
+    "germanWord": "die Person",
+    "chineseTranslation": "人",
     "pinyin": "rén",
-    "translation": "die Person (Pl: die Personen)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "die",
+    "cases": {
+      "nominativ": "die Person",
+      "akkusativ": "die Person",
+      "dativ": "der Person",
+      "genitiv": "der Person"
+    },
+    "plural": "die Personen"
   },
   {
-    "character": "认识",
+    "germanWord": "kennen",
+    "chineseTranslation": "认识",
     "pinyin": "rènshi",
-    "translation": "kennen, ich kenne, du kennst, er/sie kennt",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "kennen",
+    "conjugations": {
+      "ich": "kenne",
+      "du": "kennst",
+      "er": "kennt",
+      "wir": "kennen"
+    }
   },
   {
-    "character": "三",
+    "germanWord": "drei",
+    "chineseTranslation": "三",
     "pinyin": "sān",
-    "translation": "drei",
-    "level": 1
+    "level": 1,
+    "wordType": "number",
+    "translation": "drei"
   },
   {
-    "character": "商店",
+    "germanWord": "das Geschäft",
+    "chineseTranslation": "商店",
     "pinyin": "shāngdiàn",
-    "translation": "das Geschäft (Pl: die Geschäfte)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "das",
+    "cases": {
+      "nominativ": "das Geschäft",
+      "akkusativ": "das Geschäft",
+      "dativ": "dem Geschäft",
+      "genitiv": "des Geschäfts"
+    },
+    "plural": "die Geschäfte"
   },
   {
-    "character": "上",
+    "germanWord": "oben / auf",
+    "chineseTranslation": "上",
     "pinyin": "shàng",
-    "translation": "oben / auf",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "oben / auf"
   },
   {
-    "character": "上午",
+    "germanWord": "der Vormittag",
+    "chineseTranslation": "上午",
     "pinyin": "shàngwǔ",
-    "translation": "der Vormittag (Pl: die Vormittage)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Vormittag",
+      "akkusativ": "den Vormittag",
+      "dativ": "dem Vormittag",
+      "genitiv": "des Vormittags"
+    },
+    "plural": "die Vormittage"
   },
   {
-    "character": "少",
+    "germanWord": "wenig",
+    "chineseTranslation": "少",
     "pinyin": "shǎo",
-    "translation": "wenig, weniger, am wenigsten",
-    "level": 1
+    "level": 1,
+    "wordType": "adjective",
+    "base": "wenig",
+    "comparative": "weniger",
+    "superlative": "wenigsten"
   },
   {
-    "character": "谁",
+    "germanWord": "wer",
+    "chineseTranslation": "谁",
     "pinyin": "shéi",
-    "translation": "wer",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "wer"
   },
   {
-    "character": "什么",
+    "germanWord": "was",
+    "chineseTranslation": "什么",
     "pinyin": "shénme",
-    "translation": "was",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "was"
   },
   {
-    "character": "十",
+    "germanWord": "zehn",
+    "chineseTranslation": "十",
     "pinyin": "shí",
-    "translation": "zehn",
-    "level": 1
+    "level": 1,
+    "wordType": "number",
+    "translation": "zehn"
   },
   {
-    "character": "时候",
+    "germanWord": "die Zeit",
+    "chineseTranslation": "时候",
     "pinyin": "shíhou",
-    "translation": "die Zeit (Pl: die Zeiten)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "die",
+    "cases": {
+      "nominativ": "die Zeit",
+      "akkusativ": "die Zeit",
+      "dativ": "der Zeit",
+      "genitiv": "der Zeit"
+    },
+    "plural": "die Zeiten"
   },
   {
-    "character": "是",
+    "germanWord": "sein",
+    "chineseTranslation": "是",
     "pinyin": "shì",
-    "translation": "sein, ich bin, du bist, er/sie ist",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "sein",
+    "pastParticiple": "gewesen",
+    "conjugations": {
+      "ich": "bin",
+      "du": "bist",
+      "er": "ist",
+      "wir": "sein"
+    }
   },
   {
-    "character": "书",
+    "germanWord": "das Buch",
+    "chineseTranslation": "书",
     "pinyin": "shū",
-    "translation": "das Buch (Pl: die Bücher)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "das",
+    "cases": {
+      "nominativ": "das Buch",
+      "akkusativ": "das Buch",
+      "dativ": "dem Buch",
+      "genitiv": "des Buchs"
+    },
+    "plural": "die Bücher"
   },
   {
-    "character": "水",
+    "germanWord": "das Wasser",
+    "chineseTranslation": "水",
     "pinyin": "shuǐ",
-    "translation": "das Wasser",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "das",
+    "cases": {
+      "nominativ": "das Wasser",
+      "akkusativ": "das Wasser",
+      "dativ": "dem Wasser",
+      "genitiv": "des Wassers"
+    }
   },
   {
-    "character": "水果",
+    "germanWord": "das Obst",
+    "chineseTranslation": "水果",
     "pinyin": "shuǐguǒ",
-    "translation": "das Obst / die Frucht (Pl: die Früchte)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "das",
+    "cases": {
+      "nominativ": "das Obst",
+      "akkusativ": "das Obst",
+      "dativ": "dem Obst",
+      "genitiv": "des Obsts"
+    },
+    "plural": "die Früchte"
   },
   {
-    "character": "睡觉",
+    "germanWord": "schlafen",
+    "chineseTranslation": "睡觉",
     "pinyin": "shuìjiào",
-    "translation": "schlafen, ich schlafe, du schläfst, er/sie schläft",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "schlafen",
+    "pastParticiple": "geschlafen",
+    "conjugations": {
+      "ich": "schlafe",
+      "du": "schläfst",
+      "er": "schläft",
+      "wir": "schlafen"
+    }
   },
   {
-    "character": "说",
+    "germanWord": "sprechen",
+    "chineseTranslation": "说",
     "pinyin": "shuō",
-    "translation": "sprechen, ich spreche, du sprichst, er/sie spricht",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "sprechen",
+    "conjugations": {
+      "ich": "spreche",
+      "du": "sprichst",
+      "er": "spricht",
+      "wir": "sprechen"
+    }
   },
   {
-    "character": "四",
+    "germanWord": "vier",
+    "chineseTranslation": "四",
     "pinyin": "sì",
-    "translation": "vier",
-    "level": 1
+    "level": 1,
+    "wordType": "number",
+    "translation": "vier"
   },
   {
-    "character": "岁",
+    "germanWord": "Jahre alt",
+    "chineseTranslation": "岁",
     "pinyin": "suì",
-    "translation": "Jahre alt",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "Jahre alt"
   },
   {
-    "character": "他",
+    "germanWord": "er",
+    "chineseTranslation": "他",
     "pinyin": "tā",
-    "translation": "er",
-    "level": 1
+    "level": 1,
+    "wordType": "pronoun",
+    "translation": "er"
   },
   {
-    "character": "她",
+    "germanWord": "sie",
+    "chineseTranslation": "她",
     "pinyin": "tā",
-    "translation": "sie",
-    "level": 1
+    "level": 1,
+    "wordType": "pronoun",
+    "translation": "sie"
   },
   {
-    "character": "太",
+    "germanWord": "zu",
+    "chineseTranslation": "太",
     "pinyin": "tài",
-    "translation": "zu",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "zu"
   },
   {
-    "character": "天气",
+    "germanWord": "das Wetter",
+    "chineseTranslation": "天气",
     "pinyin": "tiānqì",
-    "translation": "das Wetter",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "das",
+    "cases": {
+      "nominativ": "das Wetter",
+      "akkusativ": "das Wetter",
+      "dativ": "dem Wetter",
+      "genitiv": "des Wetters"
+    }
   },
   {
-    "character": "听",
+    "germanWord": "hören",
+    "chineseTranslation": "听",
     "pinyin": "tīng",
-    "translation": "hören, ich höre, du hörst, er/sie hört",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "hören",
+    "conjugations": {
+      "ich": "höre",
+      "du": "hörst",
+      "er": "hört",
+      "wir": "hören"
+    }
   },
   {
-    "character": "同学",
+    "germanWord": "der Mitschüler",
+    "chineseTranslation": "同学",
     "pinyin": "tóngxué",
-    "translation": "der Mitschüler (Pl: die Mitschüler)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Mitschüler",
+      "akkusativ": "den Mitschüler",
+      "dativ": "dem Mitschüler",
+      "genitiv": "des Mitschülers"
+    },
+    "plural": "die Mitschüler"
   },
   {
-    "character": "喂",
+    "germanWord": "hallo",
+    "chineseTranslation": "喂",
     "pinyin": "wèi",
-    "translation": "hallo",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "hallo"
   },
   {
-    "character": "我",
+    "germanWord": "ich",
+    "chineseTranslation": "我",
     "pinyin": "wǒ",
-    "translation": "ich",
-    "level": 1
+    "level": 1,
+    "wordType": "pronoun",
+    "translation": "ich"
   },
   {
-    "character": "我们",
+    "germanWord": "wir",
+    "chineseTranslation": "我们",
     "pinyin": "wǒmen",
-    "translation": "wir",
-    "level": 1
+    "level": 1,
+    "wordType": "pronoun",
+    "translation": "wir"
   },
   {
-    "character": "五",
+    "germanWord": "fünf",
+    "chineseTranslation": "五",
     "pinyin": "wǔ",
-    "translation": "fünf",
-    "level": 1
+    "level": 1,
+    "wordType": "number",
+    "translation": "fünf"
   },
   {
-    "character": "喜欢",
+    "germanWord": "mögen",
+    "chineseTranslation": "喜欢",
     "pinyin": "xǐhuan",
-    "translation": "mögen, ich mag, du magst, er/sie mag",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "mögen",
+    "conjugations": {
+      "ich": "mag",
+      "du": "magst",
+      "er": "mag",
+      "wir": "mögen"
+    }
   },
   {
-    "character": "下",
+    "germanWord": "unten",
+    "chineseTranslation": "下",
     "pinyin": "xià",
-    "translation": "unten",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "unten"
   },
   {
-    "character": "下午",
+    "germanWord": "der Nachmittag",
+    "chineseTranslation": "下午",
     "pinyin": "xiàwǔ",
-    "translation": "der Nachmittag (Pl: die Nachmittage)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Nachmittag",
+      "akkusativ": "den Nachmittag",
+      "dativ": "dem Nachmittag",
+      "genitiv": "des Nachmittags"
+    },
+    "plural": "die Nachmittage"
   },
   {
-    "character": "下雨",
+    "germanWord": "regnen, es regnet",
+    "chineseTranslation": "下雨",
     "pinyin": "xià yǔ",
-    "translation": "regnen, es regnet",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "regnen, es regnet"
   },
   {
-    "character": "先生",
+    "germanWord": "Herr (Pl: Herren)",
+    "chineseTranslation": "先生",
     "pinyin": "xiānsheng",
-    "translation": "Herr (Pl: Herren)",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "Herr (Pl: Herren)"
   },
   {
-    "character": "现在",
+    "germanWord": "jetzt",
+    "chineseTranslation": "现在",
     "pinyin": "xiànzài",
-    "translation": "jetzt",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "jetzt"
   },
   {
-    "character": "想",
+    "germanWord": "wollen",
+    "chineseTranslation": "想",
     "pinyin": "xiǎng",
-    "translation": "wollen, ich will, du willst, er/sie will",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "wollen",
+    "conjugations": {
+      "ich": "will",
+      "du": "willst",
+      "er": "will",
+      "wir": "wollen"
+    }
   },
   {
-    "character": "小",
+    "germanWord": "klein",
+    "chineseTranslation": "小",
     "pinyin": "xiǎo",
-    "translation": "klein, kleiner, am kleinsten",
-    "level": 1
+    "level": 1,
+    "wordType": "adjective",
+    "base": "klein",
+    "comparative": "kleiner",
+    "superlative": "kleinsten"
   },
   {
-    "character": "小姐",
+    "germanWord": "Fräulein",
+    "chineseTranslation": "小姐",
     "pinyin": "xiǎojiě",
-    "translation": "Fräulein",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "Fräulein"
   },
   {
-    "character": "些",
+    "germanWord": "einige / ein paar",
+    "chineseTranslation": "些",
     "pinyin": "xiē",
-    "translation": "einige / ein paar",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "einige / ein paar"
   },
   {
-    "character": "写",
+    "germanWord": "schreiben",
+    "chineseTranslation": "写",
     "pinyin": "xiě",
-    "translation": "schreiben, ich schreibe, du schreibst, er/sie schreibt",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "schreiben",
+    "conjugations": {
+      "ich": "schreibe",
+      "du": "schreibst",
+      "er": "schreibt",
+      "wir": "schreiben"
+    }
   },
   {
-    "character": "谢谢",
+    "germanWord": "danke schön",
+    "chineseTranslation": "谢谢",
     "pinyin": "xièxie",
-    "translation": "danke schön",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "danke schön"
   },
   {
-    "character": "星期",
+    "germanWord": "die Woche",
+    "chineseTranslation": "星期",
     "pinyin": "xīngqī",
-    "translation": "die Woche (Pl: die Wochen)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "die",
+    "cases": {
+      "nominativ": "die Woche",
+      "akkusativ": "die Woche",
+      "dativ": "der Woche",
+      "genitiv": "der Woche"
+    },
+    "plural": "die Wochen"
   },
   {
-    "character": "学生",
+    "germanWord": "der Schüler",
+    "chineseTranslation": "学生",
     "pinyin": "xuésheng",
-    "translation": "der Schüler (Pl: die Schüler)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Schüler",
+      "akkusativ": "den Schüler",
+      "dativ": "dem Schüler",
+      "genitiv": "des Schülers"
+    },
+    "plural": "die Schüler"
   },
   {
-    "character": "学习",
+    "germanWord": "lernen",
+    "chineseTranslation": "学习",
     "pinyin": "xuéxí",
-    "translation": "lernen, ich lerne, du lernst, er/sie lernt",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "lernen",
+    "conjugations": {
+      "ich": "lerne",
+      "du": "lernst",
+      "er": "lernt",
+      "wir": "lernen"
+    }
   },
   {
-    "character": "学校",
+    "germanWord": "die Schule",
+    "chineseTranslation": "学校",
     "pinyin": "xuéxiào",
-    "translation": "die Schule (Pl: die Schulen)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "die",
+    "cases": {
+      "nominativ": "die Schule",
+      "akkusativ": "die Schule",
+      "dativ": "der Schule",
+      "genitiv": "der Schule"
+    },
+    "plural": "die Schulen"
   },
   {
-    "character": "一",
+    "germanWord": "eins",
+    "chineseTranslation": "一",
     "pinyin": "yī",
-    "translation": "eins",
-    "level": 1
+    "level": 1,
+    "wordType": "number",
+    "translation": "eins"
   },
   {
-    "character": "一点儿",
+    "germanWord": "ein bisschen",
+    "chineseTranslation": "一点儿",
     "pinyin": "yīdiǎnr",
-    "translation": "ein bisschen",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "ein bisschen"
   },
   {
-    "character": "医生",
+    "germanWord": "der Arzt",
+    "chineseTranslation": "医生",
     "pinyin": "yīshēng",
-    "translation": "der Arzt (Pl: die Ärzte)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Arzt",
+      "akkusativ": "den Arzt",
+      "dativ": "dem Arzt",
+      "genitiv": "des Arzts"
+    },
+    "plural": "die Ärzte"
   },
   {
-    "character": "医院",
+    "germanWord": "das Krankenhaus",
+    "chineseTranslation": "医院",
     "pinyin": "yīyuàn",
-    "translation": "das Krankenhaus (Pl: die Krankenhäuser)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "das",
+    "cases": {
+      "nominativ": "das Krankenhaus",
+      "akkusativ": "das Krankenhaus",
+      "dativ": "dem Krankenhaus",
+      "genitiv": "des Krankenhauss"
+    },
+    "plural": "die Krankenhäuser"
   },
   {
-    "character": "衣服",
+    "germanWord": "die Kleidung",
+    "chineseTranslation": "衣服",
     "pinyin": "yīfu",
-    "translation": "die Kleidung",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "die",
+    "cases": {
+      "nominativ": "die Kleidung",
+      "akkusativ": "die Kleidung",
+      "dativ": "der Kleidung",
+      "genitiv": "der Kleidung"
+    }
   },
   {
-    "character": "椅子",
+    "germanWord": "der Stuhl",
+    "chineseTranslation": "椅子",
     "pinyin": "yǐzi",
-    "translation": "der Stuhl (Pl: die Stühle)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Stuhl",
+      "akkusativ": "den Stuhl",
+      "dativ": "dem Stuhl",
+      "genitiv": "des Stuhls"
+    },
+    "plural": "die Stühle"
   },
   {
-    "character": "有",
+    "germanWord": "haben",
+    "chineseTranslation": "有",
     "pinyin": "yǒu",
-    "translation": "haben, ich habe, du hast, er/sie hat",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "haben",
+    "conjugations": {
+      "ich": "habe",
+      "du": "hast",
+      "er": "hat",
+      "wir": "haben"
+    }
   },
   {
-    "character": "月",
+    "germanWord": "der Monat",
+    "chineseTranslation": "月",
     "pinyin": "yuè",
-    "translation": "der Monat (Pl: die Monate)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Monat",
+      "akkusativ": "den Monat",
+      "dativ": "dem Monat",
+      "genitiv": "des Monats"
+    },
+    "plural": "die Monate"
   },
   {
-    "character": "再见",
+    "germanWord": "auf Wiedersehen",
+    "chineseTranslation": "再见",
     "pinyin": "zàijiàn",
-    "translation": "auf Wiedersehen",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "auf Wiedersehen"
   },
   {
-    "character": "在",
+    "germanWord": "in / bei",
+    "chineseTranslation": "在",
     "pinyin": "zài",
-    "translation": "in / bei",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "in / bei"
   },
   {
-    "character": "怎么",
+    "germanWord": "wie",
+    "chineseTranslation": "怎么",
     "pinyin": "zěnme",
-    "translation": "wie",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "wie"
   },
   {
-    "character": "怎么样",
+    "germanWord": "wie ist es",
+    "chineseTranslation": "怎么样",
     "pinyin": "zěnmeyàng",
-    "translation": "wie ist es",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "wie ist es"
   },
   {
-    "character": "这",
+    "germanWord": "dies / dieses",
+    "chineseTranslation": "这",
     "pinyin": "zhè",
-    "translation": "dies / dieses",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "dies / dieses"
   },
   {
-    "character": "中国",
+    "germanWord": "China",
+    "chineseTranslation": "中国",
     "pinyin": "Zhōngguó",
-    "translation": "China",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "China"
   },
   {
-    "character": "中午",
+    "germanWord": "der Mittag",
+    "chineseTranslation": "中午",
     "pinyin": "zhōngwǔ",
-    "translation": "der Mittag (Pl: die Mittage)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Mittag",
+      "akkusativ": "den Mittag",
+      "dativ": "dem Mittag",
+      "genitiv": "des Mittags"
+    },
+    "plural": "die Mittage"
   },
   {
-    "character": "住",
+    "germanWord": "wohnen",
+    "chineseTranslation": "住",
     "pinyin": "zhù",
-    "translation": "wohnen, ich wohne, du wohnst, er/sie wohnt",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "wohnen",
+    "conjugations": {
+      "ich": "wohne",
+      "du": "wohnst",
+      "er": "wohnt",
+      "wir": "wohnen"
+    }
   },
   {
-    "character": "桌子",
+    "germanWord": "der Tisch",
+    "chineseTranslation": "桌子",
     "pinyin": "zhuōzi",
-    "translation": "der Tisch (Pl: die Tische)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "der",
+    "cases": {
+      "nominativ": "der Tisch",
+      "akkusativ": "den Tisch",
+      "dativ": "dem Tisch",
+      "genitiv": "des Tischs"
+    },
+    "plural": "die Tische"
   },
   {
-    "character": "字",
+    "germanWord": "das Schriftzeichen",
+    "chineseTranslation": "字",
     "pinyin": "zì",
-    "translation": "das Schriftzeichen (Pl: die Schriftzeichen)",
-    "level": 1
+    "level": 1,
+    "wordType": "noun",
+    "gender": "das",
+    "cases": {
+      "nominativ": "das Schriftzeichen",
+      "akkusativ": "das Schriftzeichen",
+      "dativ": "dem Schriftzeichen",
+      "genitiv": "des Schriftzeichens"
+    },
+    "plural": "die Schriftzeichen"
   },
   {
-    "character": "昨天",
+    "germanWord": "gestern",
+    "chineseTranslation": "昨天",
     "pinyin": "zuótiān",
-    "translation": "gestern",
-    "level": 1
+    "level": 1,
+    "wordType": "phrase",
+    "translation": "gestern"
   },
   {
-    "character": "做",
+    "germanWord": "machen",
+    "chineseTranslation": "做",
     "pinyin": "zuò",
-    "translation": "machen, ich mache, du machst, er/sie macht",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "machen",
+    "conjugations": {
+      "ich": "mache",
+      "du": "machst",
+      "er": "macht",
+      "wir": "machen"
+    }
   },
   {
-    "character": "坐",
+    "germanWord": "sitzen",
+    "chineseTranslation": "坐",
     "pinyin": "zuò",
-    "translation": "sitzen, ich sitze, du sitzt, er/sie sitzt",
-    "level": 1
+    "level": 1,
+    "wordType": "verb",
+    "infinitive": "sitzen",
+    "conjugations": {
+      "ich": "sitze",
+      "du": "sitzt",
+      "er": "sitzt",
+      "wir": "sitzen"
+    }
   }
 ]
