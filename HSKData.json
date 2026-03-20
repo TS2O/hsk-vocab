@@ -835,7 +835,38 @@
     "pinyin": "nǐ",
     "level": 1,
     "wordType": "pronoun",
-    "translation": "du"
+    "cases": {
+      "nominativ": "du",
+      "akkusativ": "dich",
+      "dativ": "dir",
+      "genitiv": "deiner"
+    },
+    "possessive": {
+      "maskulin": {
+        "nominativ": "dein",
+        "akkusativ": "deinen",
+        "dativ": "deinem",
+        "genitiv": "deines"
+      },
+      "feminin": {
+        "nominativ": "deine",
+        "akkusativ": "deine",
+        "dativ": "deiner",
+        "genitiv": "deiner"
+      },
+      "neutrum": {
+        "nominativ": "dein",
+        "akkusativ": "dein",
+        "dativ": "deinem",
+        "genitiv": "deines"
+      },
+      "plural": {
+        "nominativ": "deine",
+        "akkusativ": "deine",
+        "dativ": "deinen",
+        "genitiv": "deiner"
+      }
+    }
   },
   {
     "germanWord": "das Jahr",
@@ -1209,7 +1240,38 @@
     "pinyin": "tā",
     "level": 1,
     "wordType": "pronoun",
-    "translation": "er"
+    "cases": {
+      "nominativ": "er",
+      "akkusativ": "ihn",
+      "dativ": "ihm",
+      "genitiv": "seiner"
+    },
+    "possessive": {
+      "maskulin": {
+        "nominativ": "sein",
+        "akkusativ": "seinen",
+        "dativ": "seinem",
+        "genitiv": "seines"
+      },
+      "feminin": {
+        "nominativ": "seine",
+        "akkusativ": "seine",
+        "dativ": "seiner",
+        "genitiv": "seiner"
+      },
+      "neutrum": {
+        "nominativ": "sein",
+        "akkusativ": "sein",
+        "dativ": "seinem",
+        "genitiv": "seines"
+      },
+      "plural": {
+        "nominativ": "seine",
+        "akkusativ": "seine",
+        "dativ": "seinen",
+        "genitiv": "seiner"
+      }
+    }
   },
   {
     "germanWord": "sie",
@@ -1217,7 +1279,38 @@
     "pinyin": "tā",
     "level": 1,
     "wordType": "pronoun",
-    "translation": "sie"
+    "cases": {
+      "nominativ": "sie",
+      "akkusativ": "sie",
+      "dativ": "ihr",
+      "genitiv": "ihrer"
+    },
+    "possessive": {
+      "maskulin": {
+        "nominativ": "ihr",
+        "akkusativ": "ihren",
+        "dativ": "ihrem",
+        "genitiv": "ihres"
+      },
+      "feminin": {
+        "nominativ": "ihre",
+        "akkusativ": "ihre",
+        "dativ": "ihrer",
+        "genitiv": "ihrer"
+      },
+      "neutrum": {
+        "nominativ": "ihr",
+        "akkusativ": "ihr",
+        "dativ": "ihrem",
+        "genitiv": "ihres"
+      },
+      "plural": {
+        "nominativ": "ihre",
+        "akkusativ": "ihre",
+        "dativ": "ihren",
+        "genitiv": "ihrer"
+      }
+    }
   },
   {
     "germanWord": "zu",
@@ -1284,7 +1377,38 @@
     "pinyin": "wǒ",
     "level": 1,
     "wordType": "pronoun",
-    "translation": "ich"
+    "cases": {
+      "nominativ": "ich",
+      "akkusativ": "mich",
+      "dativ": "mir",
+      "genitiv": "meiner"
+    },
+    "possessive": {
+      "maskulin": {
+        "nominativ": "mein",
+        "akkusativ": "meinen",
+        "dativ": "meinem",
+        "genitiv": "meines"
+      },
+      "feminin": {
+        "nominativ": "meine",
+        "akkusativ": "meine",
+        "dativ": "meiner",
+        "genitiv": "meiner"
+      },
+      "neutrum": {
+        "nominativ": "mein",
+        "akkusativ": "mein",
+        "dativ": "meinem",
+        "genitiv": "meines"
+      },
+      "plural": {
+        "nominativ": "meine",
+        "akkusativ": "meine",
+        "dativ": "meinen",
+        "genitiv": "meiner"
+      }
+    }
   },
   {
     "germanWord": "wir",
@@ -1292,7 +1416,38 @@
     "pinyin": "wǒmen",
     "level": 1,
     "wordType": "pronoun",
-    "translation": "wir"
+    "cases": {
+      "nominativ": "wir",
+      "akkusativ": "uns",
+      "dativ": "uns",
+      "genitiv": "unser"
+    },
+    "possessive": {
+      "maskulin": {
+        "nominativ": "unser",
+        "akkusativ": "unseren",
+        "dativ": "unserem",
+        "genitiv": "unseres"
+      },
+      "feminin": {
+        "nominativ": "unsere",
+        "akkusativ": "unsere",
+        "dativ": "unserer",
+        "genitiv": "unserer"
+      },
+      "neutrum": {
+        "nominativ": "unser",
+        "akkusativ": "unser",
+        "dativ": "unserem",
+        "genitiv": "unseres"
+      },
+      "plural": {
+        "nominativ": "unsere",
+        "akkusativ": "unsere",
+        "dativ": "unseren",
+        "genitiv": "unserer"
+      }
+    }
   },
   {
     "germanWord": "fünf",
